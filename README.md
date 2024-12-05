@@ -42,7 +42,7 @@ cd login-tailwind
 
 <br>
 
-# 📷 ![Preview]()
+# 📷 ![Preview](https://github.com/LeandroDukievicz/login-tailwind/blob/main/Screenshot%202024-12-05%20130302.png)
 
 <br>
 
