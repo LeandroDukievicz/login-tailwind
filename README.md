@@ -9,16 +9,15 @@ Este projeto é um **template de login estilizado com Tailwind CSS**. Ele serve 
 - Compatível com navegadores modernos.
 - Estrutura pronta para integração com backends ou bibliotecas de autenticação.
 
----
 
 ## 🖥️ Tecnologias Utilizadas
 
 - **Tailwind CSS**: Framework CSS para estilização.
 - **HTML**: Estruturação da página.
 
----
 
----
+
+
 
 ## 🛠️ Como Usar
 
