@@ -15,7 +15,6 @@ Este projeto é um **template de login estilizado com Tailwind CSS**. Ele serve 
 
 - **Tailwind CSS**: Framework CSS para estilização.
 - **HTML**: Estruturação da página.
-- **JavaScript** (opcional): Espaço reservado para funcionalidades dinâmicas.
 
 ---
 
@@ -43,7 +42,7 @@ cd login-tailwind
 
 <br>
 
-# 📷 Preview
+# 📷 ![Preview]()
 
 <br>
 
