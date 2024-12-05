@@ -1,6 +1,6 @@
 # Login Tailwind
 
-Este projeto é um **template de login estilizado com Tailwind CSS**. Ele serve para eu aprimorar o meu conhecimento no framework.
+Este projeto é um **template de login estilizado com Tailwind CSS**. Ele serve para aprimorar o meu conhecimento no framework. Projeto simples, pensando na idéia do mobile first !
 
 ## 🚀 Funcionalidades
 
@@ -42,7 +42,11 @@ cd login-tailwind
 
 <br>
 
-# 📷 ![Preview](https://github.com/LeandroDukievicz/login-tailwind/blob/main/Screenshot%202024-12-05%20130302.png)
+# 📷 Preview
+
+![Preview1](https://github.com/LeandroDukievicz/login-tailwind/blob/main/Screenshot%202024-12-05%20132842.png)
+
+![Preview2](https://github.com/LeandroDukievicz/login-tailwind/blob/main/Screenshot%202024-12-05%20130302.png)
 
 <br>
 
